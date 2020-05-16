@@ -8,7 +8,6 @@
 
 ## About the repository:-
 1. This Repository contains the 4 week AI Capstone project assignment using keras as a part of IBM-AI Engineering in which we need to classify a image containing a stone cracked or not by processing 40000 images in which nearly 30000 for training and 10000 for validation.  
-
 2. 4th week is final assignment in which we need to campare performance in between pretrained models like Resnet50 and VGG16 using keras
 
 ## Performance of Models:-
@@ -19,8 +18,6 @@ I ran both models to 2 epochs. Performance is as shown in below table.
 |----------------|-------------------|---------------------|----------------|----------------|-----------------|
 | Resnet 50      | 91.08%            | 93.88%              | 54.19          | 0.0016         | 0.0070          |
 | VGG16          | 99.76%            | 99.81%              | 98.0%          | 7.4741e-05     | 0.0074          |
-
-
 
 ## Conclusion:-
 In the 2 models by the above data we can conclude VGG16 is appropriate for the above dataset. After all my final assignment is passed and graded 100%.  
