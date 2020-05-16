@@ -14,7 +14,7 @@
 
 I ran both models to 2 epochs. Performance is as shown in below table.
 
-|                | Training Accuracy | Validation Accuracy | Test Accuracy  | Valdation Loss | Training Loss   | 
+| Model          | Training Accuracy | Validation Accuracy | Test Accuracy  | Valdation Loss | Training Loss   | 
 |----------------|-------------------|---------------------|----------------|----------------|-----------------|
 | Resnet 50      | 91.08%            | 93.88%              | 54.19          | 0.0016         | 0.0070          |
 | VGG16          | 99.76%            | 99.81%              | 98.0%          | 7.4741e-05     | 0.0074          |
