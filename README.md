@@ -1,5 +1,7 @@
 # AI-Capstone-Project
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/08bf8f1aab2c44bb9074c5a2f986d283)](https://app.codacy.com/manual/ksdkamesh99/AI-Capstone-Project?utm_source=github.com&utm_medium=referral&utm_content=ksdkamesh99/AI-Capstone-Project&utm_campaign=Badge_Grade_Settings)
+
 ## Dataset used:-
 [https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/DL0321EN/data/concrete_data_week4.zip](https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/DL0321EN/data/concrete_data_week4.zip)
 
