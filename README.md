@@ -7,8 +7,8 @@
 [https://www.coursera.org/learn/ai-deep-learning-capstone](https://www.coursera.org/learn/ai-deep-learning-capstone)
 
 ## About the repository:-
-1. This Repository contains the 4 week AI Capstone project assignment using keras as a part of IBM-AI Engineering in which we need to classify a image containing a stone cracked or not by processing 40000 images in which nearly 30000 for training and 10000 for validation.  
-2. 4th week is final assignment in which we need to campare performance in between pretrained models like Resnet50 and VGG16 using keras
+1 . This Repository contains the 4 week AI Capstone project assignment using keras as a part of IBM-AI Engineering in which we need to classify a image containing a stone cracked or not by processing 40000 images in which nearly 30000 for training and 10000 for validation.  
+2 . 4th week is final assignment in which we need to campare performance in between pretrained models like Resnet50 and VGG16 using keras.
 
 ## Performance of Models:-
 
@@ -25,4 +25,3 @@ You can check it out [here](https://www.coursera.org/account/accomplishments/rec
 
 ## Licence:-
 [MIT Licence](https://github.com/ksdkamesh99/AI-Capstone-Project/blob/master/LICENSE)
- 
