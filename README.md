@@ -15,19 +15,17 @@
 
 I ran both models to 2 epochs. Performance is as shown in below table.
 
-|                | Training Accuracy |Validation Accuracy  | Test Accuracy  | Valdation Loss| Training Loss    
-|----------------|-------------------|---------------------|---------------|----------------|------------------
-| Resnet 50      | 91.08%            | 93.88%              | 54.19         | 0.0016         | 0.0070           
-| VGG16          | 99.76%            | 99.81%              | 98.0%         | 7.4741e-05     | 0.0074           
+|                | Training Accuracy | Validation Accuracy | Test Accuracy  | Valdation Loss | Training Loss   | 
+|----------------|-------------------|---------------------|----------------|----------------|-----------------|
+| Resnet 50      | 91.08%            | 93.88%              | 54.19          | 0.0016         | 0.0070          |
+| VGG16          | 99.76%            | 99.81%              | 98.0%          | 7.4741e-05     | 0.0074          |
 
 
 
 ## Conclusion:-
-
 In the 2 models by the above data we can conclude VGG16 is appropriate for the above dataset. After all my final assignment is passed and graded 100%.  
 You can check it out [here](https://www.coursera.org/account/accomplishments/records/PTE5WUKY5GMV)
 
 ## Licence:-
-
 [MIT Licence](https://github.com/ksdkamesh99/AI-Capstone-Project/blob/master/LICENSE)
  
